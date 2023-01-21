@@ -701,6 +701,8 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants-V2.1-java \
     dpmapi \
     embmslibrary \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     qcrilhook \
     qti-telephony-common \
     vendor.qti.hardware.data.cne.internal.api-V1.0-java \
